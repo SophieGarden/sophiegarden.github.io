@@ -1,0 +1,26 @@
+# Site settings
+title:          AI Folder Genie for Downloading Files
+description:    "Project page for AI Folder Genie"
+url:            "https://sophiegarden.github.io"
+
+# Author
+author:
+  name:         Sophie Chen
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
