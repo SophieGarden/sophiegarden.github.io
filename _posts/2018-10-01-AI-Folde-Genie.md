@@ -83,6 +83,9 @@ _This is an image with a caption_
 ![Image with caption](https://placehold.it/700x400 "Image with caption")
 _This is an image with a caption_
 
+![Aww](/assets/allerton.jpg "aww")
+_awwwww_
+
 # Code and Syntax Highlighting
 Use back-ticks for `inline code`. Multi-line code snippets are supported too through Pygments.
 
